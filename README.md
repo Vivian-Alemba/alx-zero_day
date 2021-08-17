@@ -1,0 +1,1 @@
+This project is created with an aim of learning the basic git commands and familiarizing with the github platforms.
